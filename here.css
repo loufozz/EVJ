@@ -44,10 +44,18 @@ h1{
     border-radius: 50px;
 }
 
+.portal:hover{
+    background-color: black;
+}
+
 a{
     color:rgb(0, 0, 0);
     text-decoration: none;
     
+}
+
+a:hover{
+    color:rgb(255, 255, 255);
 }
 
 .accueilA{
